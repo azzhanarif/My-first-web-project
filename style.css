@@ -1,4 +1,4 @@
-/* ===== Basic Body Style ===== */
+
 body {
     background-color: #ffffff;
     font-family: 'Trebuchet MS', sans-serif;
@@ -15,10 +15,10 @@ body {
     background-color: #ffffff;
     position: relative;
 
-        /* Shadow */
+        
     box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
 
-    /* Smooth hover animation */
+    
     transition: box-shadow 0.3s ease, transform 0.3s ease;
 }
 #header:hover {
